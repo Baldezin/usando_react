@@ -1,0 +1,20 @@
+button {
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(0, 255, 106);
+  height: 30px;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: rgb(0, 221, 118);
+}
+
+ul {
+  list-style-type: none;
+}
+
+div {
+  text-align: center;
+}
